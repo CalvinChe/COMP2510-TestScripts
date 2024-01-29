@@ -19,7 +19,7 @@ if [ -x "$exe" ]; then
     $exe "$input" > "$output_file"
 
     answer_file="$answer_folder/answer$test_num.txt"
-    if diff -q <(tail -n +2 "$output_file") <(tail -n +2 "$answer_file") > /dev/null; then
+    if diff -p <(tail -n +2 "$output_file") <(tail -n +2 "$answer_file") > /dev/null; then
       echo "Test case $test_num: Passed"
     else
       echo "Test case $test_num: Failed"
