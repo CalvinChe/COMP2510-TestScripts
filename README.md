@@ -1,6 +1,6 @@
 # COMP2510-TestScripts
 
-This repository contains bash scripts for each lab in COMP 2510, designed to assist everyone in testing their code before submission. Detailed instructions on running each script can be found in their respective directories.
+This repository contains bash scripts for each lab in COMP 2510, designed to assist everyone in testing their code before submission.
 
 ## Getting Started
 
