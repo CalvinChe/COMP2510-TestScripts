@@ -1,0 +1,8 @@
+A
+Input array:
+11
+22
+
+Rotated array (270 degrees):
+12
+12

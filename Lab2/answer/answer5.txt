@@ -1,0 +1,6 @@
+A
+Input array:
+9
+
+Rotated array (360 degrees):
+9

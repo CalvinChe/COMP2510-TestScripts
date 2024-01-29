@@ -1,0 +1,10 @@
+A
+Input array:
+321
+654
+987
+
+Rotated array (120 degrees):
+963
+852
+741

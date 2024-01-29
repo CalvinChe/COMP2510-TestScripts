@@ -1,0 +1,10 @@
+A
+Input array:
+123
+456
+789
+
+Rotated array (90 degrees):
+741
+852
+963
